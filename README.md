@@ -7,3 +7,5 @@
 3) Sign up for Latex
 
 [Github, Colab, Overleaf Intro](https://www.youtube.com/watch?v=50wdMpfO9t0)
+
+[Intro Slides](https://docs.google.com/presentation/d/1A8L-MlcYS2nGcOLD48YUDR9hReSib4uFKt4QV0GDiPE/edit?usp=sharing)
