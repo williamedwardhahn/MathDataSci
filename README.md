@@ -9,3 +9,7 @@
 [Github, Colab, Overleaf Intro](https://www.youtube.com/watch?v=50wdMpfO9t0)
 
 [Intro Slides](https://docs.google.com/presentation/d/1A8L-MlcYS2nGcOLD48YUDR9hReSib4uFKt4QV0GDiPE/edit?usp=sharing)
+
+# Notebooks
+
+[Convolution](https://colab.research.google.com/drive/1kf0i0P2gFtkuCm5zVO68VT8fP8ryN0Iq?usp=sharing)
