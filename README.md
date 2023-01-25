@@ -17,6 +17,8 @@
 
 [Deep Viz Toolbox Video](https://www.youtube.com/watch?v=AgkfIQ4IGaM)
 
+[Tensor Space](https://tensorspace.org/)
+
 # Notebooks
 
 [Images](https://colab.research.google.com/drive/1zyJnCKtkEydjrTrVjrs9B21uAtQQGsDj?usp=sharing)
