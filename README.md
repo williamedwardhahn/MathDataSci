@@ -27,9 +27,11 @@
 
 [Mario Coin Conv](https://colab.research.google.com/drive/15iL3eG_1tSTBy3Q2ZhRmBCS-hBGLsdHS?usp=sharing)
 
-<!--
+
 
 [Convolution](https://colab.research.google.com/drive/1kf0i0P2gFtkuCm5zVO68VT8fP8ryN0Iq?usp=sharing)
 
 [Alexnet](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
+
+<!--
 -->
