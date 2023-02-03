@@ -39,3 +39,6 @@
 
 <!--
 -->
+
+# History of AI and Data Science Playlist
+[Videos](https://youtube.com/playlist?list=PLWmIsQcAzRkquFp4Qqyd_4-9Ve9wmJwiW)
