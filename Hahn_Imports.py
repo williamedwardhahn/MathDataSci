@@ -22,6 +22,22 @@ import cv2
 import PIL
 import io
 
+def video_frame():
+  data = eval_js('stream_frame()')
+  return data
+def take_photo():
+    return jsob_to_image(video_frame()["img"])
+
+def jsob_to_image(js_object):
+  # decode base64 image
+  image_bytes = b64decode(js_object.split(',')[1])
+  # convert bytes to numpy array
+  img_array = np.frombuffer(image_bytes, dtype=np.uint8)
+  # convert numpy array into OpenCV BGR 
+  frame = cv2.imdecode(img_array, flags=1)
+
+  return frame
+
 def take_photo(filename='photo.jpg', quality=0.8):
   js = Javascript('''
     async function takePhoto(quality) {
