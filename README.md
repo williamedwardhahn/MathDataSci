@@ -19,6 +19,10 @@
 
 [Tensor Space](https://tensorspace.org/)
 
+# Book 
+[Pytorch Book](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+
+
 # Notebooks
 
 [Images](https://colab.research.google.com/drive/1zyJnCKtkEydjrTrVjrs9B21uAtQQGsDj?usp=sharing)
