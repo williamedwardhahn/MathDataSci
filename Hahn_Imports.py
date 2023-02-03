@@ -16,6 +16,11 @@ from skimage.util import montage
 from torch.autograd import Variable
 from skimage import io as skio
 from scipy import signal
+import html
+from base64 import b64decode, b64encode
+import cv2
+import PIL
+import io
 
 def take_photo(filename='photo.jpg', quality=0.8):
   js = Javascript('''
