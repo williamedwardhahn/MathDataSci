@@ -25,7 +25,7 @@ import io
 def video_frame():
   data = eval_js('stream_frame()')
   return data
-def take_photo():
+def photo():
     return jsob_to_image(video_frame()["img"])
 
 def jsob_to_image(js_object):
@@ -79,7 +79,7 @@ def take_photo(filename='photo.jpg', quality=0.8):
   
   
   
-  from IPython.display import display, Javascript
+from IPython.display import display, Javascript
 from IPython.display import Image as PyImage
 from google.colab.output import eval_js
 import html
