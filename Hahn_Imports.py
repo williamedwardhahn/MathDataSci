@@ -22,6 +22,58 @@ import cv2
 import PIL
 import io
 
+
+
+#################################
+# Animation 
+import numpy as np
+from skimage import io as io
+import matplotlib.pyplot as plt
+from scipy import signal
+from skimage.color import rgb2hsv
+import cv2
+from skimage.util import montage
+from matplotlib import animation, rc
+from IPython.display import HTML, Image
+rc('animation', html='html5')
+def plot(x):
+    fig, ax = plt.subplots()
+    im = ax.imshow(x, cmap = 'gray')
+    ax.axis('off')
+    fig.set_size_inches(18, 10)
+    plt.show()
+def make_ani(A, colormap='cool'):
+
+    fig, ax = plt.subplots()
+    im = ax.imshow(A[0,:,:], cmap = colormap);
+    ax.axis('off')
+    plt.tight_layout()
+    # fig.set_size_inches(12, 12)
+
+    def animate(data, im):
+        im.set_data(data)
+
+    def step():
+        for i in range(A.shape[0]):
+            data = A[i,:,:]
+            yield data
+
+    return animation.FuncAnimation(fig, animate, step, interval=200, repeat=False, fargs=(im,))
+
+
+
+
+
+
+
+############################
+
+
+
+
+
+
+
 def video_frame():
   data = eval_js('stream_frame()')
   return data
