@@ -35,6 +35,7 @@
 
 [Convolution](https://colab.research.google.com/drive/1kf0i0P2gFtkuCm5zVO68VT8fP8ryN0Iq?usp=sharing)
 
+[Alexnet from Slides](https://colab.research.google.com/drive/1onlVrce4bfYNpHOWysOa3PE4pv15vZo0?usp=sharing)
 
 <!--
 [Alexnet](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
