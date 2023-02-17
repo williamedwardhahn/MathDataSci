@@ -41,6 +41,7 @@
 
 [MNIST Linear](https://colab.research.google.com/drive/1MEC07x5DfsiPJX_XKDCCklL_KPcQWVNe?usp=sharing)
 
+[Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
 
 <!--
