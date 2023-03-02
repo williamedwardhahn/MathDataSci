@@ -43,6 +43,7 @@
 
 [Random Walk](https://colab.research.google.com/drive/1PqagE494INfj4bHWehOujGNIHk6VI9mB?usp=sharing)
 
+[Random Walk MNIST](https://colab.research.google.com/drive/19M60mQfizgcjtNPkY7myA1mxZ9O2h_X7#scrollTo=YuKZ6PIsJbjl)
 
 <!--
 [Alexnet](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
