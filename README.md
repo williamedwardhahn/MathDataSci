@@ -52,3 +52,11 @@
 
 # History of AI and Data Science Playlist
 [Videos](https://youtube.com/playlist?list=PLWmIsQcAzRkquFp4Qqyd_4-9Ve9wmJwiW)
+
+
+
+
+
+# Website Links
+[HTML5 up](https://html5up.net/)
+[Domain Setup](https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58)
