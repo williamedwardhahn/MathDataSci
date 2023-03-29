@@ -46,9 +46,13 @@
 [Random Walk MNIST](https://colab.research.google.com/drive/19M60mQfizgcjtNPkY7myA1mxZ9O2h_X7#scrollTo=YuKZ6PIsJbjl)
 
 <!--
+-->
 [Alexnet](https://colab.research.google.com/drive/1gymf98aiTdUaM9eY8fgs3RM-wfb_sc78?usp=sharing)
 
--->
+[Google Drive Alexnet](https://colab.research.google.com/drive/1VelZogBKeHYPFDYlJf-_GwcZSfj_Kpc7?usp=sharing)
+
+
+
 
 # History of AI and Data Science Playlist
 [Videos](https://youtube.com/playlist?list=PLWmIsQcAzRkquFp4Qqyd_4-9Ve9wmJwiW)
