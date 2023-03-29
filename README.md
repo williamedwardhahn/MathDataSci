@@ -51,7 +51,7 @@
 
 [Google Drive Alexnet](https://colab.research.google.com/drive/1VelZogBKeHYPFDYlJf-_GwcZSfj_Kpc7?usp=sharing)
 
-
+[conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
 
 
 # History of AI and Data Science Playlist
