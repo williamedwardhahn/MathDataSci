@@ -51,6 +51,8 @@
 
 [Google Drive Alexnet](https://colab.research.google.com/drive/1VelZogBKeHYPFDYlJf-_GwcZSfj_Kpc7?usp=sharing)
 
+[Google Slides Alexnet](https://colab.research.google.com/drive/1onlVrce4bfYNpHOWysOa3PE4pv15vZo0#scrollTo=p6Bj-MmYfdpf)
+
 [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)
 
 
