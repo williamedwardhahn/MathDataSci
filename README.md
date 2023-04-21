@@ -1,4 +1,11 @@
 # Mathematics of Data Science
+
+[Research Team Signup](https://docs.google.com/forms/d/e/1FAIpQLScEneFkjC8ixL-ab7mBI4PRfzU_BzTXeEkMRtK0pcOgfgx6gA/viewform?usp=sf_link)
+
+
+
+
+
 [Slides](https://docs.google.com/document/d/1robxhjHGDE-xlW65worsEPYM9NlMx5MB0eX4VZR-4KY/edit?usp=sharing)
 
 
